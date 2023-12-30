@@ -1,5 +1,6 @@
 # Play Store App Reviews Dashboard
-![Alt Text]([URL](https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/07/playstore-1690375555.jpg))
+
+<img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/07/playstore-1690375555.jpg" alt="Alt Text" width="200"/>
 
 Welcome to the Play Store App Reviews Dashboard repository! This project aims to provide insightful visualizations and analysis of app reviews from the Google Play Store. You can explore the interactive dashboard and watch a video explanation to gain valuable insights into user feedback and app performance.
 
